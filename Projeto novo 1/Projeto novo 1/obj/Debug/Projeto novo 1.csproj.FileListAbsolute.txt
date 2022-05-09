@@ -1,0 +1,8 @@
+C:\Users\essrr\OneDrive\Área de Trabalho\Projeto C#\Projeto novo 1\Projeto novo 1\bin\Debug\Projeto novo 1.exe.config
+C:\Users\essrr\OneDrive\Área de Trabalho\Projeto C#\Projeto novo 1\Projeto novo 1\bin\Debug\Projeto novo 1.exe
+C:\Users\essrr\OneDrive\Área de Trabalho\Projeto C#\Projeto novo 1\Projeto novo 1\bin\Debug\Projeto novo 1.pdb
+C:\Users\essrr\OneDrive\Área de Trabalho\Projeto C#\Projeto novo 1\Projeto novo 1\obj\Debug\Projeto novo 1.csproj.AssemblyReference.cache
+C:\Users\essrr\OneDrive\Área de Trabalho\Projeto C#\Projeto novo 1\Projeto novo 1\obj\Debug\Projeto novo 1.csproj.SuggestedBindingRedirects.cache
+C:\Users\essrr\OneDrive\Área de Trabalho\Projeto C#\Projeto novo 1\Projeto novo 1\obj\Debug\Projeto novo 1.csproj.CoreCompileInputs.cache
+C:\Users\essrr\OneDrive\Área de Trabalho\Projeto C#\Projeto novo 1\Projeto novo 1\obj\Debug\Projeto novo 1.exe
+C:\Users\essrr\OneDrive\Área de Trabalho\Projeto C#\Projeto novo 1\Projeto novo 1\obj\Debug\Projeto novo 1.pdb
